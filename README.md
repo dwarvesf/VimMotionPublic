@@ -30,7 +30,7 @@ Along with the favorite Vimari ext on Safari or Vimium on Chrome, vim users will
 
 ```Shell
 $ brew tap dwarvesf/homebrew-tap
-$ brew cask install vimmotion
+$ brew install --cask vimmotion
 ```
 
 #### Manual download
